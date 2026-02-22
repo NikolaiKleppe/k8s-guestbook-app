@@ -2,4 +2,6 @@
 - https://kubernetes.io/docs/tutorials/stateless-application/guestbook/
 - https://argo-cd.readthedocs.io/en/stable/getting_started/#6-create-an-application-from-a-git-repository
 
+## Example Apps
 
+- https://github.com/argoproj/argocd-example-apps?tab=readme-ov-file
